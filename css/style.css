@@ -1,0 +1,88 @@
+/* &display=swap */
+@import "null.css"; 
+@import url(https://fonts.googleapis.com/css?family=Russo+One:regular);
+@import url(https://fonts.googleapis.com/css2?family=Comforter&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&family=Jura:wght@700&family=Klee+One&family=Poiret+One&display=swap);
+@font-face{
+    font-family: "Cormorant Infant";
+    src: url(../fonts/CormorantInfant-Medium.woff2) format("woff2"), url(../fonts/CormorantInfant-Medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+        font-family: "Train One";
+        src: url(../fonts/TrainOne-Regular.woff2) format('woff2'),
+            url(../fonts/TrainOne-Regular.woff) format('woff');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+}
+
+
+body{
+    line-height: 1.5;
+}
+h1{
+    font-family: "Russo One", Arial, sans-serif;
+    font-size: 55px;
+    font-weight: regular;
+    text-shadow: 2px 3px 2px rgb(245, 21, 5);
+    text-align: center;
+}
+p.plan{
+    font-size: 40px;
+    text-shadow: 5px 5px 2px rgb(44, 113, 150);
+}
+a{
+    color: crimson;
+    text-transform: uppercase;
+}
+img{
+    width: 900px;
+}
+h2{
+    font-family: "Cormorant Infant", Arial, sans-serif;
+    font-weight: 500;   
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+    color: brown;
+}
+p{
+    font-size: 24px;
+    text-indent: 10px;
+}
+.start {
+    font-family: "Train One", Arial,  sans-serif;
+    font-weight: normal;
+}
+.devils-tower {
+    font-family: "Rampart One", cursive;
+    font-weight: normal;
+}
+.manchak {
+    font-family: "Comforter", Arial, cursive;
+}
+.japan {
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+}
+.dolls {
+    font-family: Comfortaa, Arial, cursive;
+    font-weight: 700;
+}
+.chuma {
+    font-family: "Balsamiq Sans", Arial, cursive;
+}
+.bridge {
+    font-family: Jura, Arial, sans-serif;
+    font-weight: 500;
+}
+.snake {
+    font-family: "Klee One", Arial, cursive;
+}
+.paris {
+    font-family: "Poiret One", Arial, cursive;
+    
+}
